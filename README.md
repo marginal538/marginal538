@@ -2,6 +2,21 @@
 <h1 align="center">marginal538</h1>
 <h4 align="center">Web developer and LiteLoaderBDS Plugin Creator</h4>
 
+### LiteLoaderBDS Plugins
+
+<table>
+  <thead>
+    <td>Name</td>
+    <td>Description</td>
+    <td>Download</td>
+  </thead>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="15px"/> MarginalChat</td>
+    <td>Local and Global Chat for your server.</td>
+    <td><a href="https://github.com/marginal538/MarginalChat">Download</a></td>
+  </tr>
+</table>
+
 ### Languages and tools
 #### Languages
 <p>
