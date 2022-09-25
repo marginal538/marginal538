@@ -1,5 +1,4 @@
-### marginal538
-Web developer and LiteLoaderBDS Plugin developer
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Marginal538&fontSize=90&animation=scaleIn&fontAlignY=38&desc=Web%20developer%20and%20LiteLoaderBDS%20Plugin%20developer&descAlignY=60&descAlign=50)
 
 ### LiteLoaderBDS Plugins
 
