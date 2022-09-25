@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center"><img align="center" src="https://avatars.githubusercontent.com/u/101728335?v=4" width="128px"/></p>
+<h1 align="center">marginal538</h1>
+<h4 align="center">Web developer and LiteLoaderBDS Plugin Creator</h4>
 
-<!--
-**marginal538/marginal538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools
+#### Languages
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="45px"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="45px"/>
+<img src="https://github.com/LiteLDev/docs/blob/main/assets/Logo.png?raw=true" width="45px"/>
+</p>
