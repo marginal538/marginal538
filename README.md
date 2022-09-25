@@ -1,6 +1,5 @@
-<p align="center"><img align="center" src="https://avatars.githubusercontent.com/u/101728335?v=4" width="128px"/></p>
-<h1 align="center">marginal538</h1>
-<h4 align="center">Web developer and LiteLoaderBDS Plugin Creator</h4>
+### marginal538
+Web developer and LiteLoaderBDS Plugin developer
 
 ### LiteLoaderBDS Plugins
 
