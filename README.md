@@ -13,6 +13,11 @@
     <td>Local and Global Chat for your server.</td>
     <td><a href="https://github.com/marginal538/MarginalChat">Download</a></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="15px"/> EssentialsLL</td>
+    <td>Essentials plugin for your server.</td>
+    <td><a href="https://github.com/marginal538/EssentialsLL">Download</a></td>
+  </tr>
 </table>
 
 ### Languages and tools
