@@ -18,6 +18,11 @@
     <td>Essentials plugin for your server.</td>
     <td><a href="https://github.com/marginal538/EssentialsLL">Download</a></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="15px"/> ModernGive</td>
+    <td>Modern GUI /give for your server.</td>
+    <td><a href="https://github.com/marginal538/ModernGive">Download</a></td>
+  </tr>
 </table>
 
 ### Languages and tools
